@@ -29,7 +29,7 @@ namespace Microsoft.BotBuilderSamples
                 // To learn more about Adaptive Cards, see https://aka.ms/msbot-adaptivecards for more details.
                 if (member.Id != turnContext.Activity.Recipient.Id)
                 {
-                    var reply = MessageFactory.Text($"Welcome to Complex Dialog Bot {member.Name}. " +
+                    var reply = MessageFactory.Text($"Welcome to Wragby Complex Dialog Bot. " +
                         "This bot provides a complex conversation, with multiple dialogs. " +
                         "Type anything to get started.");
                     await turnContext.SendActivityAsync(reply, cancellationToken);

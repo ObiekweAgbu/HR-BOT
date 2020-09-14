@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\ComplexDialogBot.csproj": {}
+    "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\HR-BOT\\43.complex-dialog\\ComplexDialogBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\ComplexDialogBot.csproj": {
+    "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\HR-BOT\\43.complex-dialog\\ComplexDialogBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\ComplexDialogBot.csproj",
+        "projectUniqueName": "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\HR-BOT\\43.complex-dialog\\ComplexDialogBot.csproj",
         "projectName": "ComplexDialogBot",
-        "projectPath": "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\ComplexDialogBot.csproj",
+        "projectPath": "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\HR-BOT\\43.complex-dialog\\ComplexDialogBot.csproj",
         "packagesPath": "C:\\Users\\obiek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\obj\\",
+        "outputPath": "C:\\Users\\obiek\\OneDrive\\Documents\\GitHub\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\43.complex-dialog\\HR-BOT\\43.complex-dialog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\obiek\\AppData\\Roaming\\NuGet\\NuGet.Config"

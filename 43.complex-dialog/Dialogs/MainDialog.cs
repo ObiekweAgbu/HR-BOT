@@ -37,7 +37,7 @@ namespace Microsoft.BotBuilderSamples
         {
             var userInfo = (UserProfile)stepContext.Result;
 
-            string status = "Your answers are "  + (string.Join(", ",userInfo.CompaniesToReview.ToArray()));
+            string status = "Your answers are "  + (string.Join(", ",userInfo.formValues.ToArray()));
                 // + (userInfo.formValues.Count is 0 ? "no answers" : string.Join(" and ", userInfo.formValues))
                 // + ".";
 
